@@ -3,4 +3,4 @@
 ### main.py
 main.py is the executable
 
-### V1_fan.csv.csv
+### V1_fan.csv
