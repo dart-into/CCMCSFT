@@ -20,4 +20,4 @@ This file represents the front-side images of the second batch, where the first 
 The chrysanthemum images of the first batch are stored in the warehouse (CCMMDCSFF).
 
 ### The Second Batch
-The chrysanthemum images of the second batch are divided into two folders, "back" and "front," in the current warehouse.
+The chrysanthemum images of the second batch are divided into two folders, "Back" and "Front," in the current warehouse.
